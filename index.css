@@ -437,7 +437,18 @@ footer p {
     }
 
     #inicio img {
-        width: 400px;  
+        width: 100vw;  
     }
     
+    #clinica img {
+        width: 100vw;
+    }
+
+    #farmacia img {
+        width: 100vw;
+    }
+
+    .duvidas__imagem {
+        width: 100vw;
+    }
 }
